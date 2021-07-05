@@ -1,0 +1,5 @@
+- Part 1 (Trainning Models / Validation Set / Test 80% / Research):  https://github.com/mazg-95/statistical-learning/blob/main/titanic/titanic.ipynb
+- Part 2 (Deployment / Loading Model):  https://github.com/mazg-95/statistical-learning/blob/main/titanic/titanic_deployment.ipynb
+- Experiments Log: https://github.com/mazg-95/statistical-learning/blob/main/titanic/experiments.csv
+- Saved Models: https://github.com/mazg-95/statistical-learning/tree/main/titanic/train
+- SVM: https://github.com/mazg-95/statistical-learning/blob/main/titanic/svm.ipynb
